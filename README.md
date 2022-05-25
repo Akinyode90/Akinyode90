@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akinyode90
+- 👋 Hi, I’m @Akinyode adekemi
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on new projects
